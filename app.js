@@ -1,3 +1,4 @@
+
 var products = [
     { id: 1, name: 'Laptop 1', price: 1000, image: 'https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-gaming-3/ideapad-gaming-3-001-200x200.jpg' },
     { id: 2, name: 'Laptop 2', price: 1500, image: 'https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-gaming-3/ideapad-gaming-3-001-200x200.jpg' },
